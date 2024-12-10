@@ -1,4 +1,6 @@
-# "HTML Project for Beginners"
+# This is a project I did for 10th lesson of Dave Grey's HTML Course!
+
+## "HTML Project for Beginners"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
